@@ -6,3 +6,5 @@
   void(){
     printf("?");
   }
+
+how to open a pul request
