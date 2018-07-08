@@ -5,5 +5,6 @@
 #include<stdio.h>
   void(){
     printf("?");
-    printf("Humnoi ba")
+    printf("Humnoi ba");
+    printf("Hum lag");
   }
