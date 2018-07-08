@@ -4,6 +4,11 @@
 //test
 #include<stdio.h>
   void(){
-    printf("TT");
+  int i,count;
+
+  count=10;
+    for(i=1;i<=10;i++){
+    print("sus\n");
+    }
   }
   
