@@ -7,4 +7,6 @@
     printf("?");
     printf("Humnoi ba");
     printf("Hum lag");
+    int num;
+    scanf("%d",&num);
   }
