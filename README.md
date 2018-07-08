@@ -4,5 +4,5 @@
 //test
 #include<stdio.h>
   void(){
-    printf("?");
+    printf("I don't know!");
   }
